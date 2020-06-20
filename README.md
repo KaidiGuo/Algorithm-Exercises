@@ -4,5 +4,6 @@
    + 559 Maximum Depth of N-ary Tree
    + 993 Cousins in Binary Tree
    + 515 Find Largest Value in Each Tree Row --[float('-inf')]
-2.[Hashing]()
+2. [Hashing]()
    + 884 Uncommon Words from Two Sentences -- [collections.Counter()]
+   + 1 Two Sum -- [for i,item in enumerate(nums)]
