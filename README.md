@@ -1,6 +1,10 @@
 Explanation inside the code. 
+
 Key functions added in the end of each question.
+
 For question details, please go to [Leetcode](https://leetcode.com/problemset/algorithms/)
+
+----
 
 1. [Breadth First Search](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Breadth-first%20Search)
    + 101 Symmetric Tree -- `[re = list(reversed(li))]`
