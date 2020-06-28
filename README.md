@@ -15,5 +15,6 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 
 2. [Hashing](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Hashing)
    + Easy 884 Uncommon Words from Two Sentences -- `[collections.Counter()]`
+   + Easy 387 First Unique Character in a String -- `[collections.Counter()]`--`[float('inf')]`
    + Easy 1 Two Sum -- `[for i,item in enumerate(nums)]`
    + Medium 3 Longest Substring Without Repeating Characters
