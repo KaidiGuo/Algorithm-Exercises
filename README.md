@@ -7,12 +7,13 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 ----
 
 1. [Breadth First Search](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Breadth-first%20Search)
-   + 101 Symmetric Tree -- `[re = list(reversed(li))]`
-   + 107 Binary Tree Level Order Traversal II --`[results[::-1]]`
-   + 559 Maximum Depth of N-ary Tree
-   + 993 Cousins in Binary Tree
-   + 515 Find Largest Value in Each Tree Row --`[float('-inf')]`
+   + Easy 101 Symmetric Tree -- `[re = list(reversed(li))]`
+   + Easy 107 Binary Tree Level Order Traversal II --`[results[::-1]]`
+   + Easy 559 Maximum Depth of N-ary Tree
+   + Medium 993 Cousins in Binary Tree
+   + Medium 515 Find Largest Value in Each Tree Row --`[float('-inf')]`
 
 2. [Hashing](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Hashing)
-   + 884 Uncommon Words from Two Sentences -- `[collections.Counter()]`
-   + 1 Two Sum -- `[for i,item in enumerate(nums)]`
+   + Easy 884 Uncommon Words from Two Sentences -- `[collections.Counter()]`
+   + Easy 1 Two Sum -- `[for i,item in enumerate(nums)]`
+   + Medium 3 Longest Substring Without Repeating Characters
