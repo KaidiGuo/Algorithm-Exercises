@@ -20,5 +20,5 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Easy 1 Two Sum -- `[for i,item in enumerate(nums)]`
    + Medium 3 Longest Substring Without Repeating Characters
 
-3. [Linked List]()
+3. [Linked List](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 2 Add Two Numbers  -- `[carry = carry//10]`
