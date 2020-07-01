@@ -19,3 +19,6 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 347 Top K Frequent Elements -- `[counts = sorted(dic.values())]`
    + Easy 1 Two Sum -- `[for i,item in enumerate(nums)]`
    + Medium 3 Longest Substring Without Repeating Characters
+
+3. [Linked List]()
+   + Medium 2 Add Two Numbers  -- `[carry = carry//10]`
