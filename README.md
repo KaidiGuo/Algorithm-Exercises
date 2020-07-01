@@ -22,3 +22,4 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 
 3. [Linked List](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 2 Add Two Numbers  -- `[carry = carry//10]`
+   + Medium 19 Remove Nth Node From End of List
