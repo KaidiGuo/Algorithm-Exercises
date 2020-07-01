@@ -5,7 +5,12 @@
 #         self.next = next
 
 """
-Math
+Math:
+current digit sum-value equals to the sum of two numbers(if both exist,otherwise the existed one) + previous carry
+the used value for digit node is the mod of current sum-value, i.e. sum-value%10
+the new carry is the divisor remainder: sum-value//10
+/ will return float
+// will return int
 """
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
