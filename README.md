@@ -24,3 +24,6 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 2 Add Two Numbers  -- `[carry = carry//10]`
    + Medium 19 Remove Nth Node From End of List
    + Easy 21 Merge Two Sorted Lists
+
+ 4. [Sliding window](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
+   + Medium 438 Find All Anagrams in a String
