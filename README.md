@@ -27,3 +27,8 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 
  4. [Sliding window](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 438 Find All Anagrams in a String
+
+ 5. [Depth First Search]()
+   + Pre-order traversal
+   + In-order traversal
+   + Post-order traversal
