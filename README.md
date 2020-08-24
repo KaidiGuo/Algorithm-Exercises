@@ -33,7 +33,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 19 Remove Nth Node From End of List
    + Easy 21 Merge Two Sorted Lists
 
-6. [Linked List](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
+6. [Tree](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 105 Construct Binary Tree from Preorder and Inorder Traversal  -- recursive
 
 
