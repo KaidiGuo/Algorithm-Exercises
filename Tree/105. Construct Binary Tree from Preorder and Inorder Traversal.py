@@ -40,7 +40,7 @@ no need to slice the preorder list into two left-right part,
 merely let it pop out the first element in every recursion
 so when the code runs to line root.right = self.buildTree(preorder,right_inorder)
 what left of preorder list is exactly the same as above right_preorder
-but do mind, in this way, we MUST put root.left=self.buildtree() BEFORE root.right=self.buildTree()
+but do keep in mind, in this way, we MUST put root.left=self.buildtree() BEFORE root.right=self.buildTree()
 '''
 
 class Solution:
