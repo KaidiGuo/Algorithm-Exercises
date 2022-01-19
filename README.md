@@ -16,6 +16,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 2. [Depth First Search]()
    
    Iteration VS recursive.
+
    ---
    + Pre-order traversal
    + In-order traversal
@@ -25,6 +26,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 3. [Hashing](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Hashing)
    
    The use of collections.Counter() and dictionary.
+   
    ---
    + Easy 884 Uncommon Words from Two Sentences -- `[collections.Counter()]`
    + Easy 387 First Unique Character in a String -- `[collections.Counter()]`--`[float('inf')]`--`[index = string.find('c')]`
