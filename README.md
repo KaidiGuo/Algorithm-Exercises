@@ -14,6 +14,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 515 Find Largest Value in Each Tree Row --`[float('-inf')]`
    
 2. [Depth First Search]()
+   
    Iteration VS recursive.
    ---
    + Pre-order traversal
@@ -22,6 +23,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 200 Number of Islands 
    
 3. [Hashing](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Hashing)
+   
    The use of collections.Counter() and dictionary.
    ---
    + Easy 884 Uncommon Words from Two Sentences -- `[collections.Counter()]`
