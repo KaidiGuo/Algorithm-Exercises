@@ -14,13 +14,19 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 515 Find Largest Value in Each Tree Row --`[float('-inf')]`
    
 2. [Depth First Search]()
+   Iteration VS recursive.
+   ---
    + Pre-order traversal
    + In-order traversal
    + Post-order traversal
+   + Medium 200 Number of Islands 
    
 3. [Hashing](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Hashing)
+   The use of collections.Counter() and dictionary.
+   ---
    + Easy 884 Uncommon Words from Two Sentences -- `[collections.Counter()]`
    + Easy 387 First Unique Character in a String -- `[collections.Counter()]`--`[float('inf')]`--`[index = string.find('c')]`
+   + Easy 1512. Number of Good Pairs `[math.comb(n,k)]`
    + Medium 347 Top K Frequent Elements -- `[counts = sorted(dic.values())]`
    + Easy 1 Two Sum -- `[for i,item in enumerate(nums)]`
    + Medium 3 Longest Substring Without Repeating Characters
