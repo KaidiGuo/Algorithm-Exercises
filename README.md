@@ -34,6 +34,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    + Medium 347 Top K Frequent Elements -- `[counts = sorted(dic.values())]`
    + Easy 1 Two Sum -- `[for i,item in enumerate(nums)]`
    + Medium 3 Longest Substring Without Repeating Characters
+   + Medium 146. LRU Cache -- `[collections.OrderedDict()]`--`[dict.popitem(last=False)]`
    
 4. [Sliding window](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 438 Find All Anagrams in a String
@@ -49,4 +50,7 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 7. [Two Pointers](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 763 Partition Labels
 
+8. [Array](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
+   + Easy 937. Reorder Data in Log Files -- `[list.sort(reverse=False, key=(key1,key2))]`
+   + Easy 704. Binary Search
 
