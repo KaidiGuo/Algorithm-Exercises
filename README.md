@@ -49,8 +49,14 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
 
 7. [Two Pointers](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 763 Partition Labels
+   + Easy 27. Remove Element
+   + Easy 283. Move Zeroes
+   + Easy 844. Backspace String Compare
 
 8. [Array](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Easy 937. Reorder Data in Log Files -- `[list.sort(reverse=False, key=(key1,key2))]`
-   + Easy 704. Binary Search
+   + Easy 704. Binary Search  -- `[Binary Search]`
+   + Easy 69. Sqrt(x)  -- `[Binary Search]`
+   + Easy 367. Valid Perfect Square  -- `[Binary Search]`
+   
 
