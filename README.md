@@ -41,9 +41,15 @@ For question details, please go to [Leetcode](https://leetcode.com/problemset/al
    When to use sliding window?
    Question like:
    - "finding the substring that meet certain criterion."
+
+   Right pointer loop through list,
+      while substr does not meet criterion, do something that impact the criterion
+      move left pointer
+   
    ---
    + Medium 438 Find All Anagrams in a String
    + Medium 209. Minimum Size Subarray Sum
+   + **Medium 904. Fruit Into Baskets**
    
 5. [Linked List](https://github.com/KaidiGuo/Algorithm-Exercises/tree/master/Linked%20List)
    + Medium 2 Add Two Numbers  -- `[carry = carry//10]`
