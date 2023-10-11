@@ -10,7 +10,31 @@ and add 1 to the count of new char=s[j+1] or add it if not yet in the map to win
 The following two parts are the same. just one use counter, one use dictionary
 """
 
+class Solution:
+    def findAnagrams(self, s: str, p: str) -> List[int]:
+        if len(p) >len(s):
+            return 
+        l = len(p)
+        dictp = defaultdict(int)
+        window = defaultdict(int)
+        for i in range(len(p)):
+            dictp[ p[i] ] +=1
+            window[ s[i] ] +=1
+        result=[]
 
+       
+        for j in range(len(s)-len(p)+1):
+            if window == dictp:
+                result.append(j)
+            if j +len(p) >= len(s):
+                pass
+            else:
+                window[s[j+len(p)]]+=1
+            window[s[j]] -=1
+            if window[s[j]] ==0:
+                window.pop(s[j])
+        return result
+    
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         l = len(p)
